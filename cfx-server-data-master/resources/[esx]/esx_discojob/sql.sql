@@ -1,0 +1,1 @@
+INSERT INTO `addon_account_data` (`id`, `account_name`, `money`, `owner`) VALUES (NULL, 'society_disco', '0', NULL)
